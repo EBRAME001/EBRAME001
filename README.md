@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EBRAME001/](https://github.com/EBRAME001/)
 
-- 💬 Pergunte-me sobre **Kotlin,java,Sping,Android Studio**
+- 💬 Pergunte-me sobre **Kotlin,java,Spring,Android Studio**
 
 - 📫 Como chegar até mim **galicianie@gmail.com**
 
