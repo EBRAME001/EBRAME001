@@ -18,6 +18,4 @@
 
 1 - Eu acho que ganho de todo mundo no pedra,papel ou tesoura. <br>
 2 - Minha comida favorita é qualquer coisa que tenha canela ou mostarda. <br>
-3 - O flamengo não é time, o flamengo é seleção <br>
-
-**
+3 - O flamengo não é time, o flamengo é seleção
